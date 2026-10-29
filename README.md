@@ -1,5 +1,7 @@
 # 4D Butterflies (VisPy)
 
+> Public source preview: see [PUBLICATION.md](PUBLICATION.md) for actual checks, known failures and runtime limits.
+
 Симуляция роя 4D-бабочек в 3D-проекции: AI-поведение, звёзды, светло-серый прозрачный туман, HUD со здоровьем и три режима камеры.
 
 ## Описание
@@ -55,3 +57,8 @@ python butterfly_mgl.py
 - `butterfly_mgl.py` — основной скрипт (рекомендуется)
 - `requirements.txt` — зависимости
 - `old/` — архивные версии
+
+
+## Public source status — 2026-10-29
+
+See [PUBLICATION.md](PUBLICATION.md) for the current verification scope, prototype limitations and runtime boundaries. Earlier audit checklists describe historical work.
